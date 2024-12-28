@@ -1,4 +1,5 @@
-(AVA) - The Automated Voice Assistant
+**(AVA) - The Automated Voice Assistant
+**
 
 Activate AVA by saying "Hi or Hey AVA"
 
